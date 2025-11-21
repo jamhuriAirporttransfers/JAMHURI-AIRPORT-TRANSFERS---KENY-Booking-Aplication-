@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Jamhuri Transfers Kenya",
+  "description": "Premium airport transfer and ride booking application with real-time pricing and admin alerts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
